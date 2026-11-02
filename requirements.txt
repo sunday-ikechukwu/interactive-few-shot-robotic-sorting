@@ -1,0 +1,21 @@
+# Computer Vision & GUI
+opencv-python
+pillow
+
+# The Brain & Feature Extractor (DINOv2)
+torch
+torchvision
+transformers
+
+# Math & Similarity
+numpy
+scikit-learn
+
+# HRI Offline Voice
+pyttsx3
+
+# Optional: Evaluation plots
+matplotlib
+
+# Physics Simulation
+pybullet
